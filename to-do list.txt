@@ -1,0 +1,8 @@
+1) Kick and Ban Commands:
+Allow moderators to kick or ban users from the server using commands. These commands typically require appropriate permissions.
+
+2) Vote-to-Ban System:
+Create a voting system where users can vote to ban or kick another user based on their behavior.
+
+3) Slow Mode:
+Implement a command to set slow mode in channels to prevent spamming.
